@@ -21,6 +21,8 @@ int main()
     return 0;
 }
 
+// Function definitions
+
 int add(int a, int b)
 {
     // Addition
