@@ -6,9 +6,9 @@
 
 ### GitHub Repository:
 
-**Repository Name**: Simple Code Calculator
+**Repository Name**: jse-role
 
-**URL**: https://github.com/exampleuser/simple-code-calculator
+**URL**: [git@github.com:code-particles/jse-role.git](https://github.com/code-particles/jse-role)
 
 ### Task Steps:
 
